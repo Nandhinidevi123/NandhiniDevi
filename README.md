@@ -1,3 +1,8 @@
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/95607404/164970224-a8d3fcea-82a9-40a2-ae2c-b78d05e09bc7.gif">
+
+</p>
+
 <h1 align="center">Hi  I'm Nandhini Devi</h1>
 <h3 align="center">Life is like a Software Debug your Problems Update Yourself.Software Development is Technical Activity Conducted By Human Beings. A passionate frontend developer (App and Web Development)</h3>
 
