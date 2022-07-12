@@ -1,5 +1,5 @@
 
- <center><img src ="https://dresma.ai/wp-content/uploads/2022/02/Engineering-Manager-MERN-Stack.gif" width="200" ></center>
+ <center><img src ="https://dresma.ai/wp-content/uploads/2022/02/Engineering-Manager-MERN-Stack.gif" width="300" ></center>
 
 <h1 align="center">Hi  I'm Nandhini Devi</h1>
 <h3 align="center">Life is like a Software Debug your Problems Update Yourself.Software Development is Technical Activity Conducted By Human Beings. A passionate frontend developer (App and Web Development)</h3>
