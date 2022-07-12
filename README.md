@@ -5,7 +5,7 @@
 
  <img src ="https://user-images.githubusercontent.com/95607404/162607921-1ad2e91b-26d0-4cf9-a868-a4dd1ad1267c.gif" width="200" align="right"/>
 
--<h3 align="center">A passionate frontend developer from India</h3>
+-<h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhinidevi123&label=Profile%20views&color=0e75b6&style=flat" alt="nandhinidevi123" /> </p>
 
@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **App Development and Backend Development**
 
 - 🌱 I’m currently learning **2018nandhinidevi@gmail.com**
 
 - 👯 I’m looking to collaborate on **Flutter Framework**
 
-- 🤝 I’m looking for help with **Python, HTML , CSS ,Dart**
+- 🤝 I’m looking for help with **Python, HTML , CSS ,Dart, Js**,
 
 - ⚡ Fun fact **I am interested in Explore.Music is the best thing in my life .I want to travel Around the world!...**
 
