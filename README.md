@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **App Development and Backend Development**
 
-- 🌱 I’m currently learning **2018nandhinidevi@gmail.com**
+- 🌱 I’m currently learning Flutter and Erpnext
 
 - 👯 I’m looking to collaborate on **Flutter Framework**
 
