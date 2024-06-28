@@ -2,11 +2,11 @@
  <center><img src ="https://dresma.ai/wp-content/uploads/2022/02/Engineering-Manager-MERN-Stack.gif" width="300" ></center>
 
 <h1 align="center">Hi  I'm Nandhini Devi</h1>
-<h3 align="center">Life is like a Software Debug your Problems Update Yourself.Software Development is Technical Activity Conducted By Human Beings. A passionate frontend developer (App and Web Development)</h3>
+<h3 align="center">Life is like a Software Debug your Problems Update Yourself.Software Development is Technical Activity Conducted By Human Beings.</h3>
 
  <img src ="https://user-images.githubusercontent.com/95607404/162607921-1ad2e91b-26d0-4cf9-a868-a4dd1ad1267c.gif" width="200" align="right"/>
 
--<h3 align="center">A passionate frontend developer </h3>
+-<h3 align="center">Software Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhinidevi123&label=Profile%20views&color=0e75b6&style=flat" alt="nandhinidevi123" /> </p>
 
